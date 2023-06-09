@@ -15,5 +15,17 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
-    line-height:  10px;
+    line-height:  35px;
+    font-size: 25px;
+}
+
+img {
+    margin:  0 auto;
+    display: block;
+}
+
+#img_text {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
 }
